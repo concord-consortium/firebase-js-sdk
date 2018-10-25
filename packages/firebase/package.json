@@ -1,6 +1,6 @@
 {
-  "name": "firebase",
-  "version": "5.5.5",
+  "name": "@concord-consortium/firebase",
+  "version": "5.5.6-cc.1",
   "description": "Firebase JavaScript library for web and Node.js",
   "author": "Firebase <firebase-support@google.com> (https://firebase.google.com/)",
   "license": "Apache-2.0",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firebase-js-sdk.git"
+    "url": "https://github.com/concord-consortium/firebase-js-sdk.git"
   },
   "scripts": {
     "build": "rollup -c",
@@ -38,7 +38,6 @@
     "@firebase/app": "0.3.4",
     "@firebase/auth": "0.7.8",
     "@firebase/database": "0.3.6",
-    "@firebase/firestore": "0.8.5",
     "@firebase/functions": "0.3.1",
     "@firebase/messaging": "0.3.6",
     "@firebase/polyfill": "0.3.3",
